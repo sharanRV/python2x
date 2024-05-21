@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29998579-b54d-42c2-b10d-b39940ccacad" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/21-05-2024/Break program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21-05-2024/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,7 @@
     "Python.Fibonacci_Number.executor": "Run",
     "Python.Grade Calculator.executor": "Run",
     "Python.Leap_Year_checker.executor": "Run",
+    "Python.pass program.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
