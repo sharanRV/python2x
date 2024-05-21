@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29998579-b54d-42c2-b10d-b39940ccacad" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/18-05-2024/Factorial iterative.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18-05-2024/Fibonacci_Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18-05-2024/Leap_Year_checker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21-05-2024/Break program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21-05-2024/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "sharanRV"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sharanRV&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sharanRV/python2x.git",
-    "accountId": "00bc1575-45f3-4000-9bb5-3332bfb6c080"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sharanRV/python2x.git&quot;,
+    &quot;accountId&quot;: &quot;00bc1575-45f3-4000-9bb5-3332bfb6c080&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2ge9fQNuhc2XKiFcdde0GOhJyMO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -50,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Break program.executor": "Run",
     "Python.Factorial iterative.executor": "Run",
     "Python.Fibonacci_Number.executor": "Run",
     "Python.Grade Calculator.executor": "Run",
